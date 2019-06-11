@@ -6,4 +6,4 @@ Current work:
 
 1. Using the steps similar to in the readme of DITA github.
 2. Added and configured hadoop in Windows using http://www.barik.net/archive/2015/01/19/172716/
-3. Configured running application in Scala. Link to how to do it: 
+3. Configured running application in Scala. Link to how to do it: [Click](logs/ConfigureDITAScala.md).

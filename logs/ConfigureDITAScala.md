@@ -12,6 +12,6 @@ First, we must configure the Scala application.
 ![alt text](../img/Configure2.png "Configuring the applicatoin")
 
 After that, we can nicely run the code and waiting for the results by choosing the menu Run -> Run 'DITAIndexExample'. The execution will run on the console as depicted below.
-![alt text](../img/Run1.png "Run the Scala Application")
+![alt text](../img/Run1.jpg "Run the Scala Application")
 
 
