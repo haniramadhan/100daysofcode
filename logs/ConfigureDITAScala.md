@@ -1,4 +1,4 @@
-#Configuring Scala Examples for Intellij
+**Configuring Scala Examples for Intellij**
 
 Example: DITA (https://github.com/TsinghuaDatabaseGroup/DITA)
 
