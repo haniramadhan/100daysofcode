@@ -9,11 +9,11 @@ Current work:
 3. Configured running application in Scala. Link to how to do it: [Click](logs/ConfigureDITAScala.md).
 
     * What I have learned:
-    * 	1. Checks about the result of the trajectory similarity (only)
-    * 	2. Executing the SQLExample:
-    * 		*  Still not familiar with how does Spark SQL work.
-    * 		*  Still not familiar how does the trajectory parsed into the SQL query
-    * 	3. Executing the DataFrameExample:
+    	1. Checks about the result of the trajectory similarity (only)
+    	2. Executing the SQLExample:
+    		*  Still not familiar with how does Spark SQL work.
+    		*  Still not familiar how does the trajectory parsed into the SQL query
+    	3. Executing the DataFrameExample:
     		+  Have just known that we can examine the result by writing into JSON
     		+  Parsed Trie index to JSON and the result is nonsense: {"index":"(Some(traj1), traj1_index)"}
     	4. Executing the IndexExample:
